@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FLz/zrlZ3kY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajayp\\Downloads\\TestAPI\\TestAPI\\TestAPI.DAL\\TestAPI.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajayp\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512"
+  ],
+  "logs": []
+}
